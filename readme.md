@@ -13,16 +13,14 @@
 开发完觉得费了时间的地方(仅供参考)：
 
 1. 商城页标题栏默认透明，下拉变色，这个在开发过程中还是耗费了几天时间，最后抽取出了一个单独的组件。
-
 2. 商品详情页标题栏也做了透明效果，且可以点击按钮跳转到指定位置，这个其实还是有几个小的细节需要注意，有需求具体请看代码。
 3. 商城首页二级分类的左右切换（这个效果是仿小米lite的）
 
+![](https://gitee.com/maosan1688/carwash/raw/master/gif/01.gif)
 
-![](http://img.iuxiche.com/upload/20220907/6470e1aa6bab41dbb3f5333338cf88d2.gif)
+![](https://gitee.com/maosan1688/carwash/raw/master/gif/02.gif)
 
-![](http://img.iuxiche.com/upload/20220907/6bbdd23f1bdf4c7d889f6abec9a6baea.gif)
-
-![](http://img.iuxiche.com/upload/20220907/5f86d65a8d8644e7a2ef29060d06dfd5.gif)
+![](https://gitee.com/maosan1688/carwash/raw/master/gif/03.gif)
 
 ### 洗车功能页：
 

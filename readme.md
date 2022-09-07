@@ -1,4 +1,4 @@
-#### 耗时3个多月做完的一个项目，功能完整，已经把后端api剔除，放了静态数据供参考。
+#### 耗时3个多月做完的一个项目，功能完整，支持自行创建品牌加盟，多门店使用，线上稳定运营。已经把后端api剔除，放了静态数据供参考。
 
 #### 如果有bug请联系我反馈，QQ/wx: 157239486,本人看到会第一时间更新修复。
 
@@ -16,9 +16,11 @@
 
 2. 商品详情页标题栏也做了透明效果，且可以点击按钮跳转到指定位置，这个其实还是有几个小的细节需要注意，有需求具体请看代码。
 3. 商城首页二级分类的左右切换（这个效果是仿小米lite的）
-4. ![](http://img.iuxiche.com/upload/20220907/6470e1aa6bab41dbb3f5333338cf88d2.gif)
 
-![门店首页](http://img.iuxiche.com/upload/20220907/6bbdd23f1bdf4c7d889f6abec9a6baea.gif)
+
+![](http://img.iuxiche.com/upload/20220907/6470e1aa6bab41dbb3f5333338cf88d2.gif)
+
+![](http://img.iuxiche.com/upload/20220907/6bbdd23f1bdf4c7d889f6abec9a6baea.gif)
 
 ![](http://img.iuxiche.com/upload/20220907/5f86d65a8d8644e7a2ef29060d06dfd5.gif)
 

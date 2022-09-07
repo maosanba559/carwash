@@ -1,0 +1,330 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "三毛自助洗车"
+		}
+	}, {
+		"path": "pages/goods/goods-detail",
+		"style": {
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false,
+			"navigationStyle": "custom"
+		}
+
+	}, {
+		"path": "pages/my/editcomment",
+		"style": {
+			"navigationBarTitleText": "填写评价",
+			"enablePullDownRefresh": false
+		}
+	}, {
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarTitleText": "授权登录",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/notice/index",
+		"style": {
+			"navigationBarTitleText": "公告",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/my/index",
+		"style": {
+			"navigationBarTitleText": "我的",
+			"enablePullDownRefresh": false,
+			"navigationStyle": "custom",
+			"navigationBarTextStyle": "white"
+		}
+
+	}, {
+		"path": "pages/shop/index",
+		"style": {
+			"navigationBarTitleText": "门店",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/shop/shopdetail",
+		"style": {
+			"navigationBarTitleText": "门店详情",
+			"enablePullDownRefresh": false,
+			"navigationStyle": "custom"
+		}
+
+	}, {
+		"path": "pages/recharge/recharge",
+		"style": {
+			"navigationBarTitleText": "充值",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/car/car",
+		"style": {
+			"navigationBarTitleText": "车辆管理",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/study/study",
+		"style": {
+			"navigationBarTitleText": "洗车导引",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/my/order-carwash",
+		"style": {
+			"navigationBarTitleText": "服务订单",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/my/account",
+		"style": {
+			"navigationBarTitleText": "余额明细",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/notice/detail",
+		"style": {
+			"navigationBarTitleText": "公告详情",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/failure/index",
+		"style": {
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/my/protocol",
+		"style": {
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/kf/kf",
+		"style": {
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/shop/comment",
+		"style": {
+			"navigationBarTitleText": "门店评价",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/shop/store-select-list",
+		"style": {
+			"navigationBarTitleText": "选择门店",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/my/balance",
+		"style": {
+			"navigationBarTitleText": "我的余额",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/car/unreg-car",
+		"style": {
+			"navigationBarTitleText": "无牌通道",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/washcard/washcard",
+		"style": {
+			"navigationBarTitleText": "洗车卡",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/my/user-washcard",
+		"style": {
+			"navigationBarTitleText": "我的洗车卡",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/goods/goods",
+		"style": {
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/goods/index",
+		"style": {
+			"enablePullDownRefresh": true,
+			"navigationStyle": "custom"
+		}
+
+	}, {
+		"path": "pages/goods/create-order",
+		"style": {
+			"navigationBarTitleText": "确认订单",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/address/add-address",
+		"style": {
+			"navigationBarTitleText": "新增收货地址",
+			"enablePullDownRefresh": false
+		}
+
+	}    ,{
+            "path" : "pages/address/list-address",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "选择收货地址",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/goods/pay-result",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "三毛严选",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/goods/goods-order-detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "订单详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/order/list-order",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的订单",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/categroy/cate-secondary",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "三毛严选",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/goods/activity-goods",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/search/search",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "三毛严选",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/search/search-list",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+				"navigationStyle": "custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/integral-details",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/shop/store-goods",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "门店商品",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/share/share",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "邀请好友",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "三毛自助洗车",
+		"navigationBarBackgroundColor": "#F5F5F5",
+		"backgroundColor": "#F5F5F5",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#FD6801",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"iconPath": "static/tabbar/index.png",
+			"selectedIconPath": "./static/tabbar/indexSelected.png",
+			"text": "首页"
+		}, {
+			"pagePath": "pages/shop/index",
+			"iconPath": "./static/tabbar/store.png",
+			"selectedIconPath": "./static/tabbar/storeSelected.png",
+			"text": "门店"
+		}, {
+			"pagePath": "pages/goods/index",
+			"iconPath": "./static/tabbar/mall.png",
+			"selectedIconPath": "./static/tabbar/mallSelected.png",
+			"text": "严选商城"
+		}, {
+			"pagePath": "pages/my/index",
+			"iconPath": "./static/tabbar/my.png",
+			"selectedIconPath": "./static/tabbar/mySelected.png",
+			"text": "我的"
+		}]
+	}
+}
